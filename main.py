@@ -1,4 +1,4 @@
-import tsp
+import tsp 
 import visuals
 
 print ('TSP by MangaKhan')
