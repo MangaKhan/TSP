@@ -1,5 +1,5 @@
 import numpy as np
- 
+
 def do_crossover(s1, s2, m):
    s1, s2 = s1.copy(), s2.copy()
    c1 = s2.copy()
